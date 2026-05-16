@@ -1,0 +1,19 @@
+.container {
+    gap: 20px;
+    height: 100vh;
+    padding: 100px;
+    display: flex;
+    background-color: beige;
+    justify-content: ;
+    align-items: ;
+    order: ;
+    align-self: ;
+    
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background: purple;
+}
+
